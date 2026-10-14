@@ -21,7 +21,7 @@ function searchPage() {
         search.includes("portfolio")
     ) {
 
-        window.location.href = "Index.html";
+        window.location.href = "index.html";
 
         return;
     }
